@@ -5,11 +5,11 @@ inputs:
     description: 'Who to greet'
     required: true
     default: 'world'
-output:
+outputs:
   time:
-    description: 'The time we said hello'
+    description: 'The time we said hello.'
 runs:
-  using: docker
-  image: Dockerfile
-    args:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
     - ${{ inputs.who-to-greet }}
