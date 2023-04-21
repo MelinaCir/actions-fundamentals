@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training on April 18 and 19 2023.
+Repo for the `GitHub Actions Fundamentals` remote training on April 18 and 19 2023.
 
 ## 👉 Objectives
 
